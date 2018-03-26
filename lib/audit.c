@@ -1,6 +1,6 @@
 #include <linux/init.h>
 #include <linux/types.h>
-#include <linux/audit.h>fff
+#include <linux/audit.h>fffff
 #include <asm/unistd.h>
 
 static unsigned dir_class[] = {
