@@ -3,7 +3,7 @@
  *
  * Author:	Nicolas Pitre
  * Created:	Jan 14, 2005
- * Copyright:	(C) MontaVista Software Inc.
+ * Copyright:	(C) MontaVista Software Inc.tsest
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
